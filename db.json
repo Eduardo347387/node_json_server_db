@@ -1,0 +1,66 @@
+{
+  "profesores": [
+    {
+      "nommbre": "eduardo",
+      "apellidos": "hernandez",
+      "materias": [
+        {
+          "nombre": "historia"
+        },
+        {
+          "nombre": "algebra"
+        },
+        {
+          "nombre": "fisica"
+        }
+      ]
+    },
+    {
+      "nommbre": "salvador",
+      "apellidos": "mendez",
+      "materias": [
+        {
+          "nombre": "quimica"
+        },
+        {
+          "nombre": "aeroEspacial"
+        }
+      ],
+      "id": "0d4c"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "maria",
+      "apellido": "hernandez",
+      "promedio": 8.3
+    },
+    {
+      "nombre": "pedrito",
+      "apellido": "castro",
+      "promedio": 9.3
+    },
+    {
+      "nombre": "kevin",
+      "apellido": "castro",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "curso de nodejs",
+      "duracion": 5,
+      "dificultad": "intermedia"
+    },
+    {
+      "nombre": "curso de REACT JS",
+      "duracion": 8,
+      "dificultad": "intermedia"
+    },
+    {
+      "nombre": "curso de ANGULARJS",
+      "duracion": 10,
+      "dificultad": "avanzado"
+    }
+  ]
+}
